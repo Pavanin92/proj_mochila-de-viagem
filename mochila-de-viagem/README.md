@@ -1,1 +1,1 @@
-![Alt text](tela do projeto.png)
+![Tela do Projeto](img/tela_do_projeto.png)
